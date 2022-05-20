@@ -9,8 +9,4 @@ Image Classification using Cifar10 Dataset is so Popular image classification mo
 i just use the Streamlit Library to create a web app for more easily accessable.
 and you can easily change the model hyperparameter to enhance the power of your model
 
-![Screenshot (591)](https://user-images.githubusercontent.com/72247049/111105956-2482fa80-857a-11eb-8fab-9adf277e437a.png)
-
-![Screenshot (594)](https://user-images.githubusercontent.com/72247049/111105978-31075300-857a-11eb-9826-76bfadfcdcc7.png)
-
-if you want to create this model or web page so just check my Cifar-10 repository file and learn or do it now.
+The accuracy now is still low as we are only using shallow neural nets, further improvement such as fine-tuning, add regularization, image augmentation.
