@@ -1,7 +1,7 @@
 # Image Classification with Cifar-10 Dataset (Streamlit)
 
 Hey there , 
-Image Classification using Cifar10 Dataset is so Popular image classification model and i just create this project or model in my way.
+Image Classification using Cifar10 Dataset is so Popular image classification model and i just try to do the project from my current understandings.
 
 
 ![Screenshot (590)](https://user-images.githubusercontent.com/72247049/111105737-9c045a00-8579-11eb-8800-e477ca8d69ad.png)
